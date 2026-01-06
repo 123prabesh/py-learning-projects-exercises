@@ -16,7 +16,7 @@ The focus of these exercises is to build a strong understanding of control flow,
     - concepts used: loops, conditonals, input validation, random module
 
 - **Order Items Project (ordering-projects.py)**
-    - A simple ordering program that asks user what to order, calculates and outputs total price of the itams ordered.
+    - A simple ordering program that asks user what to order, calculates and outputs total price of the items ordered.
     - concepts-used: dictionary, if statements, membership operators, for loops, while loops
 
 - **Rock Paper Scissors**
