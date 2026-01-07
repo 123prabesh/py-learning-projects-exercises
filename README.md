@@ -4,7 +4,7 @@ This repository contains small Python programs created while learning and practi
 The focus of these exercises is to build a strong understanding of control flow, basic logic, and user interaction through simple command-line applications.
 
 
-##Projects Included
+## Projects Included
 
 - **Quiz (lists.py)**
     - A simple quiz program which quizzes you.
@@ -23,6 +23,9 @@ The focus of these exercises is to build a strong understanding of control flow,
   - A command-line implementation of the classic game.
   - concepts used: conditional logic, user input handling, basic game rules.
 
+- **CLI Banking Program**
+  - A command-line program that simulates basic banking operations.
+  - concepts used: functions, loops, conditional logic, input validation, basic state management.
 
  ## Purpose
 
